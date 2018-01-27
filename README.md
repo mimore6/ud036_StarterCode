@@ -12,6 +12,8 @@ The entertainment_center.py file is where you enter the information related to t
 
 The fresh_tomatoes.html contruct the webpage with the selected movies.
 
+* In order to run the program, launch entertainment_center.py in python
+
 ### Prerequisites
 
 You will need to have python installed on your computer.
